@@ -1,5 +1,6 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
+title: Downrest's Portfolio
+
 layout: home
 
 hero:
@@ -8,12 +9,13 @@ hero:
   tagline: Heyo! I've been programming for ~6 years, my current interest is in system design, can do frontend/backend, but my most impressive work typically lends more to the frontend aspect of things (in other words, visuals).
   image:
       src: /logo.png
+      
 ---
 
 # Warioware-esque "microgames" system
 :::tip My most visually impressive work yet. Old-ish footage, currently rewriting the code.
 :::
-<div style="display: flex; gap: 16px;">
+<div style="display: flex; object-fit: cover; gap: 16px;">
   <video controls height="50%" width="50%" poster="/portfolio/syndrome/syndrome1.png">
     <source src="/portfolio/syndrome/syndrome1.mp4" type="video/mp4">
   </video>
