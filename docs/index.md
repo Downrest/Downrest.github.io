@@ -1,6 +1,4 @@
 ---
-title: Downrest's Portfolio
-
 layout: home
 
 hero:
@@ -11,7 +9,7 @@ hero:
       src: /logo.png
       
 ---
-
+<!-- 
 # Warioware-esque "microgames" system
 :::tip My most visually impressive work yet. Old-ish footage, currently rewriting the code.
 :::
@@ -38,4 +36,4 @@ hero:
   <video controls height="50%" width="50%" poster="/portfolio/roadbuilding/roadbuilding2.png">
     <source src="/portfolio/roadbuilding/roadbuilding2.mp4" type="video/mp4">
   </video>
-</div>
+</div> -->
