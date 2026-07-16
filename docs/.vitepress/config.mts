@@ -2,9 +2,13 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // base: '/',
+  base: '/',
     
   title: "Downrest's Portfolio",
+  transformPageData(pageData) {
+    pageData.titleTemplate = "Downrest's Portfolio"
+  },
+
   description: "Meow",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
