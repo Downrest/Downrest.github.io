@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Downrest"
+  name: "TEST"
   text: "Roblox programmer"
   tagline: Heyo! I've been programming for ~6 years, my current interest is in system design, can do frontend/backend, but my most impressive work typically lends more to the frontend aspect of things (in other words, visuals).
   image:

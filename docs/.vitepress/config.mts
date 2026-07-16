@@ -5,9 +5,6 @@ export default defineConfig({
   base: '/',
     
   // title: "Downrest's Portfolio",
-  transformPageData(pageData) {
-    pageData.titleTemplate = ":title"
-  },
 
   description: "Meow",
   themeConfig: {
