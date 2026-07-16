@@ -2,14 +2,14 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/',
+  // base: '/',
     
   title: "Downrest's Portfolio",
   description: "Meow",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: `Downrest's Portfolio`,
-    logo: `/docs/assets/logo/logo.png`,
+    logo: `/assets/logo/logo.png`,
 
     sidebar: [
       {
