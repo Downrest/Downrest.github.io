@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/',
     
-  // title: "Downrest's Portfolio",
+  title: "Downrest's Portfolio",
 
   description: "Meow",
   themeConfig: {
