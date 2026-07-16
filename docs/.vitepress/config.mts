@@ -9,7 +9,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: `Downrest's Portfolio`,
-    logo: `/assets/logo.png`,
+    logo: `/assets/logo/logo.png`,
 
     sidebar: [
       {
